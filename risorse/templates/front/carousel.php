@@ -6,13 +6,14 @@
             </ol>
             <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
-                <img class="d-block img-fluid" src="https://goo.gl/images/nY8XEG" alt="First slide">
+                <img class="d-block img-fluid" src="https://www.ideegreen.it/wp-content/uploads/2017/11/gatti-e-neonati-2.jpg" alt="First slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block img-fluid" src="https://goo.gl/images/LzHHig" alt="Second slide">
+                <img class="d-block img-fluid" src="http://www.fotoamore.it/foto/big/coccole_gatti.jpg" alt="Second slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block img-fluid" src="https://goo.gl/images/TUwVqc" alt="Third slide">
+                <img class="d-block img-fluid" src="https://i0.wp.com/www.soluzionidicasa.com/wp-content/uploads/2014/11/Come-aprire-un-allevamento-di-gatti.jpg?resize=1170%2C780" 
+                  alt="Third slide">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

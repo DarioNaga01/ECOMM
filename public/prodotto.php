@@ -73,7 +73,7 @@ require_once("../risorse/config.php"); ?>
         <!-- /.col-lg-9 -->
         <!--ADVISE BY SS -->
           <?php endwhile;}else echo "Prodotto non trovato " .
-            '<a href="index.php">Clicca quì per tornare alla home</a>' 
+            '<a href="index.php"> Clicca quì per tornare alla home</a>' 
           
           #clicca <a href='index.php'>quì</a> per tornare alla home ";
           ?>
